@@ -3,6 +3,9 @@ body{
 	background:linear-gradient(to bottom, #b96fa1,  #5a3f8c );
 }
 .selected-location{
+	font-family: 'roboto';
+		font-size:25px;
+	font-weight:600;
 	display:flex;
 	gap:20px
 }
