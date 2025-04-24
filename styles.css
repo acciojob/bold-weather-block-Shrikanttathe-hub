@@ -2,20 +2,20 @@
 body{
 	background:linear-gradient(to bottom, #b96fa1,  #5a3f8c );
 }
-.location{
+.selected-location{
 	display:flex;
 	gap:20px
 }
 .location img{
 	width:40%;
 }
-.location h1{
+.selected-location h1{
 	font-family: 'roboto';
 	font-size:25px;
 	font-weight:600;
 	color:white;
 }
-.location p{
+.selected-location p{
 	font-family: 'roboto';
 	font-weight:600;
 	color:white;
@@ -74,7 +74,5 @@ span{
 		height:200px;
 		border-bottom:2px solid white;
 	}
-	.item-temp img{
-		
-	}
+	
 }
