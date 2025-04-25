@@ -3,7 +3,7 @@ body{
 	background:linear-gradient(to bottom, #b96fa1,  #5a3f8c );
 }
 .selected-location{
-	font-family: 'roboto';
+	font-family: 'Roboto';
 		font-size:25px;
 	font-weight:600;
 	display:flex;
